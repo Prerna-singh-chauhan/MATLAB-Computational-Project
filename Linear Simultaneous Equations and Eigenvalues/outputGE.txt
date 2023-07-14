@@ -1,0 +1,5 @@
+Gauss elimination without pivoting 
+X
+1.500000
+2.000000
+0.500000

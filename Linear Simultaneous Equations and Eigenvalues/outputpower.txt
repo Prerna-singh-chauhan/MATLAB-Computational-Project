@@ -1,0 +1,12 @@
+Power method 
+  
+Eigenvalue 
+ 10.7788
+
+Eigenvector 
+-0.267587
+-0.255597
+1.000000
+   
+Iterations 
+ 32

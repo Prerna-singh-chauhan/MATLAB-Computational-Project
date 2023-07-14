@@ -1,0 +1,12 @@
+Inverse power method
+
+Eigenvalue
+3.0749
+
+Eigenvector
+0.269593
+1.000000
+0.327737
+
+Iterations
+12
